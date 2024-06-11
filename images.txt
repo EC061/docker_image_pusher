@@ -3,3 +3,4 @@ binhex/arch-qbittorrentvpn:latest
 cloudflare/cloudflared:latest
 jc21/nginx-proxy-manager:latest
 vaultwarden/server:latest
+deasmi/unraid-tailscale:latest
